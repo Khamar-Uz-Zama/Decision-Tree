@@ -1,7 +1,7 @@
 # Decision-Tree
 Implementation of ID3 algorithm.
 
-![Screenshot](screenshot.png)
+![Screenshot](Entropy.PNG)
 
 
 Input parameters:
